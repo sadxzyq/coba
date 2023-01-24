@@ -52,10 +52,10 @@ const sections = [{
 title: `⟥⟝⟢⟨ Menu TAQI TAQI ⟩⟣⟞⟤`,
 rows: [
 {title: "⟣⟨ Ayam Chicken ⟩⟢",
-rowId: '.store order',
+rowId: '.store order Chiken',
 description: 'Pʀɪᴄᴇ 1pcs/6 ᴋ ' },
 {title: "⟣⟨ Geprek ⟩⟢",
-rowId: '.store order2',
+rowId: '.store order2 Geprek',
 description: 'Pʀɪᴄᴇ  1pcs/12 ᴋ' },
 ]},
 ]
